@@ -67,8 +67,7 @@ if file:
     missing = []
     for col in headers:
         miss = sum(1 for r in rows if r[col].strip()=="")
-        pct = (miss/total_rows)*100 if total_rows else 0
-        missing.append({"Column":col,"Missing":miss,"%":f"{pct:.1f}%"})
+        missing.append({"Column":col,"Missing":miss})
     st.table(missing)
     # ---------- Statistics ----------
     st.header("Statistics")
