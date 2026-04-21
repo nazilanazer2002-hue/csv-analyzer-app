@@ -13,13 +13,15 @@
 ## App Preview
 
 ### 📌 Upload & Overview
-<img width="714" height="619" alt="image" src="https://github.com/user-attachments/assets/44521b64-ee19-4ab4-9d9e-832d4ad2ad9a" />
+<img width="731" height="371" alt="image" src="https://github.com/user-attachments/assets/8675eb6d-756f-4b31-a2a9-8d1d06bbf3bc" />
+
 
 ### 📊 Missing Values Analysis
-<img width="701" height="373" alt="image" src="https://github.com/user-attachments/assets/33ae5b01-0a23-4de3-8fc4-253b8a328a58" />
+<img width="726" height="286" alt="image" src="https://github.com/user-attachments/assets/fac564d2-d0df-4d38-9474-092fc1f8f12a" />
 
 ### 📈 Column Statistics
-<img width="706" height="374" alt="image" src="https://github.com/user-attachments/assets/7903fdb1-a03f-4d24-a321-38fde0d2b255" />
+<img width="727" height="391" alt="image" src="https://github.com/user-attachments/assets/d5216569-9d44-4aeb-abe3-0a2bced95960" />
+<img width="740" height="386" alt="image" src="https://github.com/user-attachments/assets/9fef20fb-cc34-49ef-b739-9e7943ffbea9" />
 
 ---
 
@@ -63,7 +65,7 @@ This tool helps:
 
 ## 👩‍💻 Author
 
-**Nazila K Nr**  
+**Nazila K N**  
 🔗 GitHub: https://github.com/nazilanazer2002-hue  
 
 
