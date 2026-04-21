@@ -1,5 +1,10 @@
 # 📊 CSV Data Analyzer App
 
+<p align="center">
+  <<img width="725" height="411" alt="projectdemo" src="https://github.com/user-attachments/assets/bee32a40-f29b-4d28-9f69-03675e2e7303" />
+>
+</p>
+
 🚀 An interactive data analysis tool built with **Streamlit** that allows users to upload CSV files and instantly generate insights, statistics, and visual summaries.
 
 💡 Designed for students, beginners, and analysts to perform quick **Exploratory Data Analysis (EDA)** without coding.
